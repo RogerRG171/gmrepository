@@ -1,0 +1,15 @@
+com\goulart\dslist\DslistApplication.class
+com\goulart\dslist\repositories\GameRepository.class
+com\goulart\dslist\projections\GameMinProjection.class
+com\goulart\dslist\controllers\GameListController.class
+com\goulart\dslist\repositories\GameListRepository.class
+com\goulart\dslist\entities\GameList.class
+com\goulart\dslist\entities\BelongingPK.class
+com\goulart\dslist\controllers\GameController.class
+com\goulart\dslist\dto\GameListDTO.class
+com\goulart\dslist\entities\Belonging.class
+com\goulart\dslist\dto\GameMinDTO.class
+com\goulart\dslist\entities\Game.class
+com\goulart\dslist\services\GameService.class
+com\goulart\dslist\dto\GameDTO.class
+com\goulart\dslist\services\GameListService.class
